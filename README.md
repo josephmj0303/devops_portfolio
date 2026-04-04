@@ -16,7 +16,7 @@ This portfolio demonstrates **end-to-end DevOps system design**, covering:
 
 # 🧱 System Architecture Overview
 
-![Architecture_diagram](architecture/portfolio-overview-diagram.png)
+![Architecture_diagram](assets/architecture.png)
 
 This portfolio represents a complete DevOps ecosystem:
 

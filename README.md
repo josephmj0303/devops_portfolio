@@ -43,10 +43,9 @@ This portfolio showcases real-world DevOps implementations across **microservice
 * Deployed **microservices architecture on Kubernetes**
 * Integrated **monitoring and alerting stack**
 
-👉 Repository:
-
-* emart-devops-platform
-* emart-gitops (Kubernetes manifests)
+👉 Repositories:
+- [emart-devops-platform](https://github.com/josephmj0303/emart-devops-platform)
+- [emart-gitops](https://github.com/josephmj0303/emart-gitops)
 
 ---
 
@@ -64,7 +63,8 @@ This portfolio showcases real-world DevOps implementations across **microservice
 * Built **fully automated CI/CD pipelines**
 * Used **ECR for container registry**
 
-👉 Repository: aws-eks-dotnet-microservices-platform
+👉 Repository: 
+- [aws-eks-dotnet-microservices-platform](https://github.com/josephmj0303/aws-eks-dotnet-microservices-platform)
 
 ---
 
@@ -81,7 +81,8 @@ This portfolio showcases real-world DevOps implementations across **microservice
 * Optimized **content delivery using CloudFront**
 * Used **managed database services (RDS)**
 
-👉 Repository: aws-cloud-native-ecommerce-platform
+👉 Repository: 
+- [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)
 
 ---
 
@@ -102,9 +103,9 @@ This portfolio showcases real-world DevOps implementations across **microservice
 
 👉 Repositories:
 
-* vprofile-gitops-eks-platform
-* vprofile-gitops-app-deploy
-* vprofile-gitops-iac
+* [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform)
+* [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy)
+* [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
 
 ---
 
@@ -121,7 +122,8 @@ This portfolio showcases real-world DevOps implementations across **microservice
 * Configured **alerting system**
 * Designed **dashboard for real-time monitoring**
 
-👉 Repository: monitoring-and-observability
+👉 Repository: 
+- [monitoring-and-observability](https://github.com/josephmj0303/monitoring-and-observability)
 
 ---
 
@@ -131,7 +133,7 @@ This portfolio showcases real-world DevOps implementations across **microservice
 
 * Docker Compose-based microservices setup
 * Nginx reverse proxy
-  👉 emart-microservices-docker
+  👉 [emart-microservices-docker](https://github.com/josephmj0303/emart-microservices-docker)
 
 ---
 
@@ -139,14 +141,14 @@ This portfolio showcases real-world DevOps implementations across **microservice
 
 * Migration to **Azure PaaS architecture**
 * Demonstrates **multi-cloud capability**
-  👉 ecommerce-azure-devops-platform
+  👉 [ecommerce-azure-devops-platform](https://github.com/josephmj0303/ecommerce-azure-devops-platform)
 
 ---
 
 ### 🔸 AWS CI/CD with Elastic Beanstalk
 
 * CodePipeline, CodeBuild, S3, RDS
-  👉 aws-cicd-elasticbeanstalk
+  👉 [aws-cicd-elasticbeanstalk](https://github.com/josephmj0303/aws-cicd-elasticbeanstalk)
 
 ---
 

@@ -228,7 +228,7 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 # 📬 Contact
 
 * GitHub: https://github.com/josephmj0303
-* LinkedIn: https://linkedin.com/in/YOUR-USERNAME
+* LinkedIn: www.linkedin.com/in/josephmj-devops
 
 ---
 

@@ -229,9 +229,8 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# 📎 Resume
-
-📄 Available in ![resume](resume/Joseph_MJ_DevOps_Engineer_Resume.pdf)
+# 📄 Resume
+👉 [View / Download Resume](resume/Joseph_MJ_DevOps_Engineer_Resume.pdf)
 
 ---
 

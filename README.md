@@ -104,14 +104,14 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 **Highly Available & Scalable AWS Architecture**
 
-* S3, CloudFront, ALB, Auto Scaling, EC2, RDS (PostgreSQL)
+* S3, CloudFront, ALB, EC2, RDS (PostgreSQL)
 
 ### 🔥 Highlights
 
-* Designed **high availability architecture**
-* Implemented **auto-scaling backend infrastructure**
-* Optimized **content delivery using CloudFront**
-* Used **managed database services (RDS)**
+* Built and deployed a cloud-native e-commerce platform on AWS
+* Automated deployments using GitHub Actions CI/CD
+* Implemented scalable architecture (ALB, RDS, CloudFront)
+* Solved real-world infra issues (DNS, routing, deployment failures)
 
 👉 Repository: 
 - [aws-cloud-native-ecommerce-platform](https://github.com/josephmj0303/aws-cloud-native-ecommerce-platform)

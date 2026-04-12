@@ -24,7 +24,7 @@ I design and implement **end-to-end cloud-native platforms**, covering:
 
 ---
 
-# 🧱 System Architecture Overview
+## 🧱 System Architecture Overview
 
 ![Architecture_diagram](assets/architecture.png)
 
@@ -41,7 +41,7 @@ This portfolio represents a complete DevOps ecosystem:
 
 ---
 
-# 🔄 System Flow
+## 🔄 System Flow
 
 ### 🌐 Application Flow
 User → CDN (CloudFront) → Load Balancer → Kubernetes Cluster → Microservices → Database (RDS)
@@ -54,7 +54,7 @@ Application → Prometheus → Grafana Dashboards → Alertmanager
 
 ---
 
-# 📦 Core Platform Projects
+## 📦 Core Platform Projects
 
 Each project represents a **specific layer of a real-world DevOps platform**, working together as a complete system.
 
@@ -159,7 +159,7 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# ⚡ Additional Projects
+## ⚡ Additional Projects
 
 ### 🔸 Emart Microservices Docker Deployment
 
@@ -184,7 +184,7 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# 🧠 Production Practices Implemented
+## 🧠 Production Practices Implemented
 
 - Infrastructure provisioning using Terraform (IaC)
 - GitOps-based continuous delivery using ArgoCD
@@ -196,7 +196,7 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# 🚨 Reliability & Failure Handling
+## 🚨 Reliability & Failure Handling
 
 - Kubernetes self-healing via pod restarts and rescheduling
 - Rolling deployments to ensure zero downtime
@@ -205,7 +205,7 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# 🏛️ Engineering Impact & Capabilities
+## 🏛️ Engineering Impact & Capabilities
 
 - Designed and deployed **microservices-based platforms on Kubernetes**
 - Implemented **GitOps workflows for automated deployments**
@@ -216,7 +216,7 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# 🔄 DevOps Maturity Evolution
+## 🔄 DevOps Maturity Evolution
 
 | Stage        | Implementation                        |
 |--------------|---------------------------------------|
@@ -229,19 +229,19 @@ This project demonstrates a **complete production-style deployment pipeline**, i
 
 ---
 
-# 📄 Resume
+## 📄 Resume
 👉 [View / Download Resume](resume/Joseph_MJ_DevOps_Engineer_Resume.pdf)
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 * GitHub: https://github.com/josephmj0303
 * LinkedIn: www.linkedin.com/in/josephmj-devops
 
 ---
 
-# ⭐ Final Note
+## ⭐ Final Note
 
 This portfolio represents **hands-on DevOps engineering experience**, focusing on building **real-world, production-style systems** rather than isolated demos.
 

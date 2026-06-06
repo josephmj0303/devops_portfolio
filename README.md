@@ -267,37 +267,25 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ## 🔐 Security Practices
 
-✔ Trivy container vulnerability scanning
-
-✔ IAM and RBAC implementation
-
-✔ Secure CI/CD pipelines
-
-✔ Infrastructure security best practices
-
-✔ GitOps deployment governance
-
-✔ Least privilege access controls
-
-✔ Secure image management practices
+✔️ Trivy container vulnerability scanning  
+✔️ IAM and RBAC implementation  
+✔️ Secure CI/CD pipelines  
+✔️ Infrastructure security best practices  
+✔️ GitOps deployment governance  
+✔️ Least privilege access controls  
+✔️ Secure image management practices  
 
 ---
 
 ## 🚨 Reliability & Failure Handling
 
-✔ Kubernetes self-healing and pod recovery
-
-✔ Rolling deployments for zero downtime
-
-✔ Health checks and readiness probes
-
-✔ Infrastructure monitoring and alerting
-
-✔ Automated deployment rollback capabilities
-
-✔ High availability cloud architecture
-
-✔ Incident detection and response workflows
+✔️ Kubernetes self-healing and pod recovery  
+✔️ Rolling deployments for zero downtime  
+✔️ Health checks and readiness probes  
+✔️ Infrastructure monitoring and alerting  
+✔️ Automated deployment rollback capabilities  
+✔️ High availability cloud architecture  
+✔️ Incident detection and response workflows 
 
 ---
 

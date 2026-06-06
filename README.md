@@ -39,19 +39,14 @@ I design and implement **end-to-end cloud-native platforms**, covering:
 
 ### DevOps Engineer | 2+ Years Experience
 
-✔ Production AWS and Azure infrastructure management
+✔️ Production AWS and Azure infrastructure management  
+✔️ Kubernetes platform operations (EKS & k3s)  
+✔️ GitHub Actions and Jenkins CI/CD automation  
+✔️ GitOps implementation using ArgoCD  
+✔️ Infrastructure provisioning using Terraform and Ansible  
+✔️ Monitoring, alerting and reliability engineering  
+✔️ Container security scanning and deployment governance  
 
-✔ Kubernetes platform operations (EKS & k3s)
-
-✔ GitHub Actions and Jenkins CI/CD automation
-
-✔ GitOps implementation using ArgoCD
-
-✔ Infrastructure provisioning using Terraform and Ansible
-
-✔ Monitoring, alerting and reliability engineering
-
-✔ Container security scanning and deployment governance
 
 In addition to professional experience, this portfolio contains 20+ DevOps projects spanning Kubernetes, multi-cloud infrastructure, GitOps, observability, and platform engineering.
 
@@ -117,7 +112,7 @@ Each project represents a **specific layer of a real-world DevOps platform**, wo
 
 ---
 
-## 🔹 1. Emart DevOps Platform *(Flagship Project)*
+## 🔹 1. Emart DevOps Platform 
 
 **End-to-End DevOps Platform on Kubernetes using GitOps**
 
@@ -141,23 +136,22 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 ---
 
 ## 🔹 2. VProfile GitOps EKS Platform
+**Production-Grade GitOps Platform on AWS EKS**
 
-**Full GitOps + IaC Implementation on AWS EKS**
-
-- **Stack:** Terraform, Helm, ArgoCD, GitHub Actions, EKS, Amazon ECR, SonarCloud
+- **Stack**: Terraform, AWS EKS, ArgoCD, Helm, GitHub Actions, Amazon ECR, AWS Load Balancer Controller, SonarCloud, Slack
 
 ### 🔥 Highlights
 
-- Clean GitOps separation: dedicated IaC and app-deploy repos
-- EKS cluster provisioned with Terraform
-- Helm-based deployments via GitHub Actions CI/CD
-- Container images built and stored in Amazon ECR with automated image tagging
-- Code quality analysis enforced via SonarCloud
+- AWS EKS infrastructure provisioned and managed with Terraform
+- GitOps deployments using ArgoCD with Auto Sync, Self-Healing, and Helm-based application delivery
+- CI/CD pipelines with GitHub Actions, SonarCloud Quality Gates, and automated image publishing to Amazon ECR
+- Secure Kubernetes integrations using AWS Load Balancer Controller and IRSA (IAM Roles for Service Accounts)
+- Real-time deployment notifications through Slack for pipeline and release visibility
 
 👉 Repositories:
-- [vprofile-gitops-eks-platform](https://github.com/josephmj0303/vprofile-gitops-eks-platform)
-- [vprofile-gitops-app-deploy](https://github.com/josephmj0303/vprofile-gitops-app-deploy)
-- [vprofile-gitops-iac](https://github.com/josephmj0303/vprofile-gitops-iac)
+- [vprofile-app](https://github.com/josephmj0303/vprofile-app)
+- [vprofile-gitops](https://github.com/josephmj0303/vprofile-gitops)
+- [vprofile-gitops-infra](https://github.com/josephmj0303/vprofile-gitops-infra)
 
 ---
 
@@ -183,12 +177,12 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 **Highly Available & Scalable AWS Architecture**
 
-- **Stack:** EC2 Auto Scaling, ALB, S3, CloudFront, RDS PostgreSQL, Terraform, GitHub Actions
+- **Stack:** EC2, ALB, S3, CloudFront, RDS PostgreSQL, Terraform, GitHub Actions
 
 ### 🔥 Highlights
 
 - Full Terraform IaC for all AWS resources
-- EC2 Auto Scaling, ALB, S3 + CloudFront CDN, RDS PostgreSQL
+- EC2, ALB, S3 + CloudFront CDN, RDS PostgreSQL
 - VPC with public/private subnets, security groups, NAT gateway
 - GitHub Actions CI/CD for zero-touch deployments
 

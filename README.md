@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Cloud and DevOps Engineer with **hands-on experience in** designing and deploying scalable, cloud-native platforms on **AWS and Azure**.
+Cloud DevOps Engineer with **hands-on experience in** designing and deploying scalable, cloud-native platforms on **AWS and Azure**.
 
 I design and implement **end-to-end cloud-native platforms**, covering:
 

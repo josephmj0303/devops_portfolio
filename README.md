@@ -37,7 +37,7 @@ I design and implement **end-to-end cloud-native platforms**, covering:
 
 ## 💼 Professional Experience
 
-### DevOps Engineer | 2+ Years Experience
+### DevOps Engineer | Nearly 3 Years Experience
 
 ✔️ Production AWS and Azure infrastructure management  
 ✔️ Kubernetes platform operations (EKS & k3s)  

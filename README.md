@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Cloud DevOps Engineer with **hands-on experience in** designing and deploying scalable, cloud-native platforms on **AWS and Azure**.
+DevOps Engineer with **nearly 3 years of hands-on experience in** designing and deploying scalable, cloud-native platforms on **AWS and Azure**.
 
 I design and implement **end-to-end cloud-native platforms**, covering:
 
@@ -315,7 +315,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 | Quality-Gated | SonarQube + Nexus artifact management |
 | GitOps | ArgoCD-based deployments |
 | Secured | Trivy container scanning in CI pipeline |
-| Observable | Prometheus + Grafana + Alertmanager |
+| Observable | Prometheus + Grafana + Loki |
 
 ---
 

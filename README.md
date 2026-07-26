@@ -64,7 +64,7 @@ This portfolio represents a complete DevOps ecosystem:
 * GitOps deployments (ArgoCD)
 * Infrastructure provisioning (Terraform)
 * Security scanning (Trivy)
-* Monitoring and observability (Prometheus, Grafana, Alertmanager)
+* Monitoring and observability (Prometheus, Grafana, Loki)
 
 📌 Designed as a complete platform engineering portfolio rather than a collection of isolated projects.
 
@@ -100,7 +100,7 @@ Source Code → Trivy Scan → CI Pipeline → Container Registry → Kubernetes
 | CI/CD      | GitHub Actions, Jenkins, GitLab CI            |
 | GitOps     | ArgoCD                                        |
 | Security   | Trivy, IAM, RBAC                              |
-| Monitoring | Prometheus, Grafana, Alertmanager, CloudWatch |
+| Monitoring | Prometheus, Grafana, Loki, CloudWatch         |
 | Databases  | PostgreSQL, MySQL, MSSQL                      |
 | Scripting  | Bash, Python                                  |
 

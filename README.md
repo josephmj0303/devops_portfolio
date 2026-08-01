@@ -321,7 +321,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ## 📄 Resume
 
-👉 [View / Download Resume](resume/Joseph_MJ_DevOps_Engineer_Resume.pdf)
+👉 [View / Download Resume](resume/Joseph_MJ_Master_Resume.pdf)
 
 ---
 

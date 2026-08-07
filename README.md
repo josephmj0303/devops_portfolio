@@ -182,7 +182,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 ### 🔥 Highlights
 
 - Full Terraform IaC for all AWS resources
-- EC2, ALB, S3 + CloudFront CDN, RDS PostgreSQL
+- EC2, ALB, S3, CloudFront CDN, RDS PostgreSQL
 - VPC with public/private subnets, security groups, NAT gateway
 - GitHub Actions CI/CD for zero-touch deployments
 

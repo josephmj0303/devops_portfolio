@@ -112,7 +112,35 @@ Each project represents a **specific layer of a real-world DevOps platform**, wo
 
 ---
 
-## 🔹 1. Emart DevOps Platform 
+## 🤖 1. AI DevOps Platform
+
+**AI-Powered DevOps Operations Platform with Kubernetes Automation**
+
+Demonstrates an AI-assisted DevOps platform that combines **LLM-powered operational intelligence, Kubernetes inspection, log analysis, and controlled DevOps automation** through a unified web interface.
+
+* **Stack:** FastAPI, React, PostgreSQL, Redis, Kubernetes, Ollama, Docker
+* **AI:** LLM-powered log analysis, natural-language DevOps action interpretation
+* **Platform:** Kubernetes inspection, controlled actions, health monitoring, persistent DevOps action history
+
+### 🔥 Highlights
+
+* AI-assisted **log analysis** for identifying and explaining application issues
+* Natural-language **DevOps action interpretation** with AI-generated action previews
+* Kubernetes cluster inspection including **nodes, pods, and deployments**
+* Controlled Kubernetes operational actions such as **deployment restarts**
+* Persistent **DevOps action history** using PostgreSQL
+* FastAPI backend with React-based DevOps dashboard
+* Redis integration for application/service support
+* Health endpoints covering **application, database, Redis, and AI services**
+* Containerized development and deployment using Docker
+
+👉 Repository:
+
+* [ai-devops-platform](https://github.com/josephmj0303/ai-devops-platform)
+
+---
+
+## 🔹 2. Emart DevOps Platform 
 
 **End-to-End DevOps Platform on Kubernetes using GitOps**
 
@@ -135,7 +163,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ---
 
-## 🔹 2. VProfile GitOps EKS Platform
+## 🔹 3. VProfile GitOps EKS Platform
 **Production-Grade GitOps Platform on AWS EKS**
 
 - **Stack**: Terraform, AWS EKS, ArgoCD, Helm, GitHub Actions, Amazon ECR, AWS Load Balancer Controller, SonarCloud, Slack
@@ -155,7 +183,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ---
 
-## 🔹 3. AWS EKS .NET Microservices Platform
+## 🔹 4. AWS EKS .NET Microservices Platform
 
 **Enterprise-grade Kubernetes deployment on AWS**
 
@@ -173,7 +201,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ---
 
-## 🔹 4. AWS Cloud-Native E-Commerce Platform
+## 🔹 5. AWS Cloud-Native E-Commerce Platform
 
 **Highly Available & Scalable AWS Architecture**
 
@@ -191,7 +219,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ---
 
-## 🔹 5. Jenkins + SonarQube + Nexus CI Pipeline
+## 🔹 6. Jenkins + SonarQube + Nexus CI Pipeline
 
 **Production-Style CI with Quality Gates & Artifact Management**
 
@@ -208,7 +236,7 @@ Demonstrates a complete production-style deployment pipeline — Kubernetes orch
 
 ---
 
-## 🔹 6. Monitoring & Observability Stack
+## 🔹 7. Monitoring & Observability Stack
 
 **Production-grade monitoring system**
 

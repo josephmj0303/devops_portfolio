@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-DevOps Engineer with **3 years of hands-on production experience in** designing and deploying scalable, cloud-native platforms on **AWS and Azure**.
+DevOps Engineer with **5+ years of combined Cloud & DevOps production experience in** designing and deploying scalable, cloud-native platforms on **AWS and Azure**.
 
 I design and implement **end-to-end cloud-native platforms**, covering:
 
@@ -37,7 +37,7 @@ I design and implement **end-to-end cloud-native platforms**, covering:
 
 ## 💼 Professional Experience
 
-### DevOps Engineer | Nearly 3 Years Experience
+### Cloud & DevOps Engineer | 5+ Years Experience
 
 ✔️ Production AWS and Azure infrastructure management  
 ✔️ Kubernetes platform operations (EKS & k3s)  
